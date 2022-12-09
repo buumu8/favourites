@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Food
 Food
 Food
-=======
 movies
 movies
 movies
->>>>>>> movies
